@@ -1,0 +1,94 @@
+[
+    
+    {
+        "_id": "5a00b4ee2bd28abc6ca45275",
+        "index": 2,
+        "guid": "d77b5a53-7b37-4f2f-864c-fa0a3aed69df",
+        "isActive": true,
+        "balance": "$1,965.76",
+        "picture": "http://placehold.it/32x32",
+        "age": 31,
+        "eyeColor": "brown",
+        "name": "French Foreman",
+        "gender": "male",
+        "company": "SENMAO",
+        "email": "frenchforeman@senmao.com",
+        "phone": "+1 (840) 534-3716",
+        "address": "457 Rost Place, Bancroft, New York, 6056",
+        "about": "Aliquip ipsum amet pariatur Lorem laboris aliqua cillum amet. Anim pariatur quis voluptate enim laborum qui. Minim dolor est dolore nisi eiusmod reprehenderit veniam nostrud ipsum. Commodo minim amet eu in exercitation et proident sunt in cillum culpa. Dolor elit nisi ullamco magna officia ad do consequat non duis.\r\n",
+        "registered": "2016-05-11T10:23:07 -02:00",
+        "latitude": 16.906776,
+        "longitude": 6.914798,
+        "tags": [
+            "proident",
+            "nisi",
+            "eiusmod",
+            "eiusmod",
+            "anim",
+            "consequat",
+            "do"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Neva Velasquez"
+            },
+            {
+                "id": 1,
+                "name": "Barker Barrera"
+            },
+            {
+                "id": 2,
+                "name": "Rosalinda Gray"
+            }
+        ],
+        "greeting": "Hello, French Foreman! You have 5 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "5a00b4eeee9539a3ef71c20a",
+        "index": 3,
+        "guid": "ef07dd68-0914-409b-93fb-542cea91c130",
+        "isActive": true,
+        "balance": "$2,987.76",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "green",
+        "name": "Adela Howard",
+        "gender": "female",
+        "company": "CUBIX",
+        "email": "adelahoward@cubix.com",
+        "phone": "+1 (906) 485-2311",
+        "address": "633 Moore Street, National, Kansas, 4210",
+        "about": "Exercitation velit irure elit esse non. Lorem labore eu amet Lorem ut magna enim sunt nisi. Eiusmod ut tempor eiusmod pariatur ex pariatur ut ad consectetur eu mollit ipsum tempor cillum. Consequat excepteur est aliqua non labore sunt id fugiat qui reprehenderit.\r\n",
+        "registered": "2015-12-12T01:02:07 -01:00",
+        "latitude": 45.841572,
+        "longitude": -176.900587,
+        "tags": [
+            "culpa",
+            "non",
+            "voluptate",
+            "reprehenderit",
+            "in",
+            "proident",
+            "duis"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Ada Nielsen"
+            },
+            {
+                "id": 1,
+                "name": "Mcdowell Garcia"
+            },
+            {
+                "id": 2,
+                "name": "Elvira Ford"
+            }
+        ],
+        "greeting": "Hello, Adela Howard! You have 9 unread messages.",
+        "favoriteFruit": "apple"
+    },
+
+]
